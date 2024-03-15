@@ -1,1 +1,1 @@
-# HackerEarth_Hackathon_ChristUni
+# HackerEarth_Hackathon_ChristUniversity
